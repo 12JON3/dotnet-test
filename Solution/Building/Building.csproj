@@ -37,8 +37,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="devDept.Eyeshot.Control.v9, Version=9.0.374.0, Culture=neutral, PublicKeyToken=5385d83d2fb4d7d9, processorArchitecture=MSIL" />
+    <Reference Include="devDept.Eyeshot.Control.Win.v11, Version=11.0.686.0, Culture=neutral, PublicKeyToken=5385d83d2fb4d7d9, processorArchitecture=MSIL" />
+    <Reference Include="devDept.Eyeshot.Control.Win.v11.Design, Version=11.0.686.0, Culture=neutral, PublicKeyToken=e7c15929995d127a, processorArchitecture=MSIL" />
+    <Reference Include="devDept.Geometry.v11, Version=11.0.686.0, Culture=neutral, PublicKeyToken=9440825e8b4733bc, processorArchitecture=MSIL" />
     <Reference Include="devDept.Geometry.v9, Version=9.0.374.0, Culture=neutral, PublicKeyToken=5385d83d2fb4d7d9" />
+    <Reference Include="devDept.Graphics.Shaders.v11, Version=11.0.686.0, Culture=neutral, PublicKeyToken=54ce5f5f803e4b42, processorArchitecture=MSIL" />
     <Reference Include="devDept.Graphics.v9, Version=9.0.374.0, Culture=neutral, PublicKeyToken=5385d83d2fb4d7d9" />
+    <Reference Include="devDept.Graphics.Win.v11, Version=11.0.686.0, Culture=neutral, PublicKeyToken=f3cd437f0d8061b5, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
