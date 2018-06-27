@@ -1,0 +1,5 @@
+C:\Users\Jono\Downloads\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.csprojAssemblyReference.cache
+C:\Users\Jono\Downloads\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.Form1.resources
+C:\Users\Jono\Downloads\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.Properties.Resources.resources
+C:\Users\Jono\Downloads\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.csproj.GenerateResource.cache
+C:\Users\Jono\Downloads\dotnet test\dotnet test\Solution\Building\obj\Debug\Building.csproj.CoreCompileInputs.cache
